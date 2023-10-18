@@ -1,2 +1,4 @@
 # Spices-Ecommerce
-using html,css,javascript
+
+#Deploye Link
+https://spice-sigma.vercel.app/
